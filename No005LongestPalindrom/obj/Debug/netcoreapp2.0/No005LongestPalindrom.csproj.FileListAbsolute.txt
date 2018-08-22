@@ -1,0 +1,11 @@
+D:\Leetcode\No005LongestPalindrom\bin\Debug\netcoreapp2.0\No005LongestPalindrom.deps.json
+D:\Leetcode\No005LongestPalindrom\bin\Debug\netcoreapp2.0\No005LongestPalindrom.runtimeconfig.json
+D:\Leetcode\No005LongestPalindrom\bin\Debug\netcoreapp2.0\No005LongestPalindrom.runtimeconfig.dev.json
+D:\Leetcode\No005LongestPalindrom\bin\Debug\netcoreapp2.0\No005LongestPalindrom.dll
+D:\Leetcode\No005LongestPalindrom\bin\Debug\netcoreapp2.0\No005LongestPalindrom.pdb
+D:\Leetcode\No005LongestPalindrom\obj\Debug\netcoreapp2.0\No005LongestPalindrom.csprojAssemblyReference.cache
+D:\Leetcode\No005LongestPalindrom\obj\Debug\netcoreapp2.0\No005LongestPalindrom.csproj.CoreCompileInputs.cache
+D:\Leetcode\No005LongestPalindrom\obj\Debug\netcoreapp2.0\No005LongestPalindrom.AssemblyInfoInputs.cache
+D:\Leetcode\No005LongestPalindrom\obj\Debug\netcoreapp2.0\No005LongestPalindrom.AssemblyInfo.cs
+D:\Leetcode\No005LongestPalindrom\obj\Debug\netcoreapp2.0\No005LongestPalindrom.dll
+D:\Leetcode\No005LongestPalindrom\obj\Debug\netcoreapp2.0\No005LongestPalindrom.pdb

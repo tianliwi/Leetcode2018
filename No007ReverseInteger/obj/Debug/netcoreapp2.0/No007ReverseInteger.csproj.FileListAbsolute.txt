@@ -1,0 +1,11 @@
+D:\Leetcode\No007ReverseInteger\bin\Debug\netcoreapp2.0\No007ReverseInteger.deps.json
+D:\Leetcode\No007ReverseInteger\bin\Debug\netcoreapp2.0\No007ReverseInteger.runtimeconfig.json
+D:\Leetcode\No007ReverseInteger\bin\Debug\netcoreapp2.0\No007ReverseInteger.runtimeconfig.dev.json
+D:\Leetcode\No007ReverseInteger\bin\Debug\netcoreapp2.0\No007ReverseInteger.dll
+D:\Leetcode\No007ReverseInteger\bin\Debug\netcoreapp2.0\No007ReverseInteger.pdb
+D:\Leetcode\No007ReverseInteger\obj\Debug\netcoreapp2.0\No007ReverseInteger.csprojAssemblyReference.cache
+D:\Leetcode\No007ReverseInteger\obj\Debug\netcoreapp2.0\No007ReverseInteger.csproj.CoreCompileInputs.cache
+D:\Leetcode\No007ReverseInteger\obj\Debug\netcoreapp2.0\No007ReverseInteger.AssemblyInfoInputs.cache
+D:\Leetcode\No007ReverseInteger\obj\Debug\netcoreapp2.0\No007ReverseInteger.AssemblyInfo.cs
+D:\Leetcode\No007ReverseInteger\obj\Debug\netcoreapp2.0\No007ReverseInteger.dll
+D:\Leetcode\No007ReverseInteger\obj\Debug\netcoreapp2.0\No007ReverseInteger.pdb

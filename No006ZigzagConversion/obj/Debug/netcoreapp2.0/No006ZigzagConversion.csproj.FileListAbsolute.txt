@@ -1,0 +1,11 @@
+D:\Leetcode\No006ZigzagConversion\bin\Debug\netcoreapp2.0\No006ZigzagConversion.deps.json
+D:\Leetcode\No006ZigzagConversion\bin\Debug\netcoreapp2.0\No006ZigzagConversion.runtimeconfig.json
+D:\Leetcode\No006ZigzagConversion\bin\Debug\netcoreapp2.0\No006ZigzagConversion.runtimeconfig.dev.json
+D:\Leetcode\No006ZigzagConversion\bin\Debug\netcoreapp2.0\No006ZigzagConversion.dll
+D:\Leetcode\No006ZigzagConversion\bin\Debug\netcoreapp2.0\No006ZigzagConversion.pdb
+D:\Leetcode\No006ZigzagConversion\obj\Debug\netcoreapp2.0\No006ZigzagConversion.csprojAssemblyReference.cache
+D:\Leetcode\No006ZigzagConversion\obj\Debug\netcoreapp2.0\No006ZigzagConversion.csproj.CoreCompileInputs.cache
+D:\Leetcode\No006ZigzagConversion\obj\Debug\netcoreapp2.0\No006ZigzagConversion.AssemblyInfoInputs.cache
+D:\Leetcode\No006ZigzagConversion\obj\Debug\netcoreapp2.0\No006ZigzagConversion.AssemblyInfo.cs
+D:\Leetcode\No006ZigzagConversion\obj\Debug\netcoreapp2.0\No006ZigzagConversion.dll
+D:\Leetcode\No006ZigzagConversion\obj\Debug\netcoreapp2.0\No006ZigzagConversion.pdb
