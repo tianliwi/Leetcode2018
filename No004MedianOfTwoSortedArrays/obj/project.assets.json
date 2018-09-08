@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Leetcode\\No004MedianOfTwoSortedArrays\\No004MedianOfTwoSortedArrays.csproj",
+      "projectUniqueName": "d:\\GitHub\\Leetcode2018\\No004MedianOfTwoSortedArrays\\No004MedianOfTwoSortedArrays.csproj",
       "projectName": "No004MedianOfTwoSortedArrays",
-      "projectPath": "D:\\Leetcode\\No004MedianOfTwoSortedArrays\\No004MedianOfTwoSortedArrays.csproj",
+      "projectPath": "d:\\GitHub\\Leetcode2018\\No004MedianOfTwoSortedArrays\\No004MedianOfTwoSortedArrays.csproj",
       "packagesPath": "C:\\Users\\tianl\\.nuget\\packages\\",
-      "outputPath": "D:\\Leetcode\\No004MedianOfTwoSortedArrays\\obj\\",
+      "outputPath": "d:\\GitHub\\Leetcode2018\\No004MedianOfTwoSortedArrays\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

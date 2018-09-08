@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Leetcode\\No005LongestPalindrom\\No005LongestPalindrom.csproj",
+      "projectUniqueName": "d:\\GitHub\\Leetcode2018\\No005LongestPalindrom\\No005LongestPalindrom.csproj",
       "projectName": "No005LongestPalindrom",
-      "projectPath": "D:\\Leetcode\\No005LongestPalindrom\\No005LongestPalindrom.csproj",
+      "projectPath": "d:\\GitHub\\Leetcode2018\\No005LongestPalindrom\\No005LongestPalindrom.csproj",
       "packagesPath": "C:\\Users\\tianl\\.nuget\\packages\\",
-      "outputPath": "D:\\Leetcode\\No005LongestPalindrom\\obj\\",
+      "outputPath": "d:\\GitHub\\Leetcode2018\\No005LongestPalindrom\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

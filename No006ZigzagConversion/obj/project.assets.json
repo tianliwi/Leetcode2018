@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Leetcode\\No006ZigzagConversion\\No006ZigzagConversion.csproj",
+      "projectUniqueName": "d:\\GitHub\\Leetcode2018\\No006ZigzagConversion\\No006ZigzagConversion.csproj",
       "projectName": "No006ZigzagConversion",
-      "projectPath": "D:\\Leetcode\\No006ZigzagConversion\\No006ZigzagConversion.csproj",
+      "projectPath": "d:\\GitHub\\Leetcode2018\\No006ZigzagConversion\\No006ZigzagConversion.csproj",
       "packagesPath": "C:\\Users\\tianl\\.nuget\\packages\\",
-      "outputPath": "D:\\Leetcode\\No006ZigzagConversion\\obj\\",
+      "outputPath": "d:\\GitHub\\Leetcode2018\\No006ZigzagConversion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

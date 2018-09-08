@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Leetcode\\No007ReverseInteger\\No007ReverseInteger.csproj",
+      "projectUniqueName": "d:\\GitHub\\Leetcode2018\\No007ReverseInteger\\No007ReverseInteger.csproj",
       "projectName": "No007ReverseInteger",
-      "projectPath": "D:\\Leetcode\\No007ReverseInteger\\No007ReverseInteger.csproj",
+      "projectPath": "d:\\GitHub\\Leetcode2018\\No007ReverseInteger\\No007ReverseInteger.csproj",
       "packagesPath": "C:\\Users\\tianl\\.nuget\\packages\\",
-      "outputPath": "D:\\Leetcode\\No007ReverseInteger\\obj\\",
+      "outputPath": "d:\\GitHub\\Leetcode2018\\No007ReverseInteger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

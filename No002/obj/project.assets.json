@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Leetcode\\No002\\No002.csproj",
+      "projectUniqueName": "d:\\GitHub\\Leetcode2018\\No002\\No002.csproj",
       "projectName": "No002",
-      "projectPath": "D:\\Leetcode\\No002\\No002.csproj",
+      "projectPath": "d:\\GitHub\\Leetcode2018\\No002\\No002.csproj",
       "packagesPath": "C:\\Users\\tianl\\.nuget\\packages\\",
-      "outputPath": "D:\\Leetcode\\No002\\obj\\",
+      "outputPath": "d:\\GitHub\\Leetcode2018\\No002\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
