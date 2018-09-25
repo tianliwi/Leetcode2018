@@ -14,15 +14,27 @@ struct ListNode
 class Solution
 {
     private:
-    ListNode *reverse(ListNode *head) {
-        ListNode *tmp
-        while(head) {
-            tmp = head->next;
-            head->next = 
-
+    ListNode *reverse(ListNode *head, ListNode *tail) {
+        ListNode *cur = head, *next = NULL, *prev = tail;
+        tail = head;
+        while(cur!=prev) {
+            next = cur->next;
+            cur->next = prev;
+            prev = cur;
+            cur = next;
         }
+        head = prev;
+        return head;
     }
   public:
+    void display(ListNode *head) {
+        ListNode *ans = head;
+        while(ans){
+        cout << ans->val << endl;
+        ans = ans->next;
+    }}
+
+
     ListNode *reverseKGroup(ListNode *head, int k)
     {
         ListNode *node = head;
@@ -30,6 +42,11 @@ class Solution
             if (!node) return head;
             node = node->next;
         }
+        ListNode *next = node->next;
+        ListNode *tmp = reverse(head, node);
+        display(tmp);
+        node->next = reverseKGroup(next, k);
+        return tmp;
     }
 };
 
@@ -44,8 +61,5 @@ int main()
 
     ListNode *ans = s.reverseKGroup(head, 2);
 
-    while(ans){
-        cout << ans->val << endl;
-        ans = ans->next;
-    }
+    s.display(ans);
 }
